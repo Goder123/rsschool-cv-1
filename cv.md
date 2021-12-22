@@ -47,5 +47,5 @@ function updateLight(current) {
 * Online course [ru.code-basics.com](https://ru.code-basics.com "ru.code-basics") language HTML completed
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress).
 ## Languages
-* English (B1) 	
+* English (B1+) 	
 * Russian (native)
